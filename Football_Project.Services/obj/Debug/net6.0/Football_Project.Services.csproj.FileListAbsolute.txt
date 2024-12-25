@@ -1,0 +1,17 @@
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/bin/Debug/net6.0/Football_Project.Services.deps.json
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/bin/Debug/net6.0/Football_Project.Services.dll
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/bin/Debug/net6.0/Football_Project.Services.pdb
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/bin/Debug/net6.0/Football_Project.Data.dll
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/bin/Debug/net6.0/Football_Project.Data.pdb
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/Football_Project.Services.csproj.AssemblyReference.cache
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/Football_Project.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/Football_Project.Services.AssemblyInfoInputs.cache
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/Football_Project.Services.AssemblyInfo.cs
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/Football_Project.Services.csproj.CoreCompileInputs.cache
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/Football_Project.Services.csproj.CopyComplete
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/Football_Project.Services.dll
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/refint/Football_Project.Services.dll
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/Football_Project.Services.pdb
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/ref/Football_Project.Services.dll
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/bin/Debug/net6.0/Football_Project.Services.runtimeconfig.json
+/Users/Lyuben.Kulishev/Projects/Football-Project/Football_Project/Football_Project.Services/obj/Debug/net6.0/Football_Project.Services.genruntimeconfig.cache
